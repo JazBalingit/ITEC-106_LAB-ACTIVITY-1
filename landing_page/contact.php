@@ -70,6 +70,7 @@
     <!-- ======== END OF 1ST PART -->
     <!-- ======== CONTENT 2ND PART -->
     <div class="row mb-5">
+        <!-- location google ma[] -->
         <div class="col-md-6">
             <div class="text-warning text-center mt-5 mb-2 text-uppercase fs-3 fs-md-4"
                 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; letter-spacing: 4px;">
@@ -82,6 +83,7 @@
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
+        <!-- contact us form -->
         <div class="col-md-6">
             <div class="text-warning text-center mt-5 mb-4 text-uppercase fs-3 fs-md-4"
                 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; letter-spacing: 4px;">
@@ -103,6 +105,7 @@
                     <textarea class="form-control bg-black text-light border border-secondary rounded-0" rows="4"
                         placeholder="Write your message..."></textarea>
                 </div>
+                <!-- button -->
                 <div class="d-grid mt-4">
                     <button class="btn btn-warning text-uppercase rounded-0 py-3" style="letter-spacing: 2px;">
                         Send Message

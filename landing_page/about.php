@@ -11,6 +11,7 @@
         integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
+
 <body>
     <!-- ========== HEADER =========== -->
     <nav class="navbar fixed-top navbar-expand-lg border-bottom border-warning border-3" data-bs-theme="dark"
@@ -48,8 +49,10 @@
 
     <!-- =========START OF CONTENT 1ST PART========= -->
     <div class="position-relative">
+        <!-- image -->
         <img src="../img/about-hero.jpg" class="img-fluid w-100"
             style="height: 55vh; object-fit: cover; filter: brightness(35%);" alt="">
+        <!-- page heading text -->
         <div class="position-absolute bottom-0 start-0 text-white" style="line-height: 1px;">
             <div class="text-uppercase text-warning ms-4 mb-2"
                 style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; letter-spacing: 4px; font-size: 15px;">
@@ -129,6 +132,7 @@
         <br>
         <br>
         <br>
+        <!-- abous us paragraph -->
         <h1 class="mamba-title fs-3 fs-md-4 mx-5 px-5 text-white">
             THE <span class="text-warning">MENTALITY</span>
         </h1>
@@ -171,6 +175,7 @@
 
     <!-- =========START OF CONTENT 4TH PART========= -->
     <div id="carouselExampleIndicators" class="carousel slide">
+        <!-- carousel slides -->
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
                 aria-current="true" aria-label="Slide 1"></button>
@@ -179,6 +184,7 @@
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
                 aria-label="Slide 3"></button>
         </div>
+        <!-- carousel image -->
         <div class="carousel-inner" style="height: 60vh; filter: brightness(15%);">
             <div class="carousel-item active h-100">
                 <img src="../img/kobe2.jpg" class="d-block w-100 h-100 object-fit-cover" alt="">
@@ -190,6 +196,7 @@
                 <img src="../img/kobe4.jpg" class="d-block w-100 h-100 object-fit-cover" alt="">
             </div>
         </div>
+        <!-- carousel button -->
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
             data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -205,7 +212,7 @@
     <!-- ==========CONTENT END=========== -->
 
     <!-- =========START OF FOOTER========= -->
-     <?php include("../includes/footer.php") ?>
+    <?php include("../includes/footer.php") ?>
     <!-- =========END OF FOOTER========== -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
