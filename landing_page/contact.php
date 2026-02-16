@@ -70,7 +70,7 @@
     <!-- ======== END OF 1ST PART -->
     <!-- ======== CONTENT 2ND PART -->
     <div class="row mb-5">
-        <div class="col-6">
+        <div class="col-md-6">
             <div class="text-warning text-center mt-5 mb-2 text-uppercase fs-3 fs-md-4"
                 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; letter-spacing: 4px;">
                 location
@@ -82,7 +82,7 @@
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
-        <div class="col-6">
+        <div class="col-md-6">
             <div class="text-warning text-center mt-5 mb-4 text-uppercase fs-3 fs-md-4"
                 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; letter-spacing: 4px;">
                 Form

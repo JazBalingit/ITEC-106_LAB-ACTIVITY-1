@@ -74,7 +74,7 @@
 
     <div class="row" style="background-color: #000000ec !important;">
         <!-- 1st col -->
-        <div class="col-3 d-flex flex-column align-items-center my-5">
+        <div class="col-md-3 d-flex flex-column align-items-center my-5">
             <div class="text-warning fs-2 fs-md-3"
                 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
                 5ᕁ
@@ -85,7 +85,7 @@
             </div>
         </div>
         <!-- 2nd col -->
-        <div class="col-3 d-flex flex-column align-items-center my-5">
+        <div class="col-md-3 d-flex flex-column align-items-center my-5">
             <div class="text-warning fs-2 fs-md-3"
                 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; letter-spacing: 3px;">
                 18ᕁ
@@ -96,7 +96,7 @@
             </div>
         </div>
         <!-- 3rd col -->
-        <div class="col-3 d-flex flex-column align-items-center my-5">
+        <div class="col-md-3 d-flex flex-column align-items-center my-5">
             <div class="text-warning fs-2 fs-md-3"
                 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
                 2ᕁ
@@ -107,7 +107,7 @@
             </div>
         </div>
         <!-- 4th col -->
-        <div class="col-3 d-flex flex-column align-items-center my-5">
+        <div class="col-md-3 d-flex flex-column align-items-center my-5">
             <div class="text-warning fs-2 fs-md-3"
                 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; letter-spacing: 3px;">
                 33,643

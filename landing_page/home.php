@@ -90,11 +90,8 @@
         <!-- heading text -->
         <div class="d-flex justify-content-center text-white fw-bold text-uppercase"
             style="letter-spacing: 8px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
-            <div class="fs-1 fs-md-2">
-                Built for
-            </div>
-            <div class="ms-3 fs-1 fs-md-2 text-warning mb-5">
-                Greatness
+            <div class="fs-1 fs-md-3 text-center">
+                Built for <span class="ms-3 fs-1 fs-md-2 text-warning mb-5"> Greatness</span>
             </div>
         </div>
         <!-- collapse -->
@@ -179,7 +176,7 @@
         <!-- cards -->
         <div class="row">
             <div class="col-md-4 d-flex justify-content-center">
-                <div class="card bg-transparent border-1 border-warning" style="width: 18rem;">
+                <div class="card bg-transparent border-1 border-warning mb-4" style="width: 18rem;">
                     <img src="../img/Kobe 8-YOS_Black-out.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-warning">Kobe 8 - YOS Black Out</h5>
@@ -192,7 +189,7 @@
                 </div>
             </div>
             <div class="col-md-4 d-flex justify-content-center">
-                <div class="card bg-transparent border-1 border-warning" style="width: 18rem;">
+                <div class="card bg-transparent border-1 border-warning mb-4" style="width: 18rem;">
                     <img src="../img/Nike-Kobe-6_Protro-Del-Sol.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-warning">Kobe 6 - Protro Del Sol</h5>
@@ -205,7 +202,7 @@
                 </div>
             </div>
             <div class="col-md-4 d-flex justify-content-center">
-                <div class="card bg-transparent border-1 border-warning" style="width: 18rem;">
+                <div class="card bg-transparent border-1 border-warning mb-4" style="width: 18rem;">
                     <img src="../img/kobe-11_achilles-heel.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-warning">Kobe 11 - Achilles Heel</h5>
@@ -252,7 +249,7 @@
     <br>
     <br>
     <!-- ==========FOOTER START ============= -->
-        <?php include("../includes/footer.php")?> 
+    <?php include("../includes/footer.php") ?>
     <!-- ============ END OF FOOTER =========== -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
