@@ -136,7 +136,7 @@
                 <!-- log in link -->
                 <div class="text-center mt-4 pb-5">
                     <span class="text-secondary">Already have an account? </span>
-                    <a href="#" class="text-warning text-decoration-none fw-bold">Log In</a>
+                    <a href="login.php" class="text-warning text-decoration-none fw-bold">Log In</a>
                 </div>
 
                 </form>
