@@ -30,7 +30,7 @@
             <div class="collapse navbar-collapse mr-2" style="letter-spacing: 2px;" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active text-warning me-3" aria-current="page" href="#">Home</a>
+                        <a class="nav-link active text-warning me-3" aria-current="page" href="#!">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-tertiary me-3" href="../landing_page/about.php">About</a>

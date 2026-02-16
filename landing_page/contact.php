@@ -42,7 +42,7 @@
                         <a class="nav-link text-tertiary me-3" href="../landing_page/about.php">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-warning me-3" href="">Contact</a>
+                        <a class="nav-link text-warning me-3" href="#!">Contact</a>
                     </li>
                     <a class="btn btn-outline-warning ms-3 me-3" href="login.php">Log In</a>
                 </ul>

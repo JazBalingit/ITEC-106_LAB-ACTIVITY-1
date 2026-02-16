@@ -69,13 +69,13 @@
                         <hr class="mb-4 mt-0 d-inline-block mx-auto"
                             style="width: 157px; background-color: #7c4dff; height: 2px" />
                         <p>
-                            <a href="#!" class="text-secondary text-decoration-none">Home</a>
+                            <a href="../landing_page/home.php" class="text-secondary text-decoration-none">Home</a>
                         </p>
                         <p>
-                            <a href="#!" class="text-secondary text-decoration-none">About Us</a>
+                            <a href="../landing_page/about.php" class="text-secondary text-decoration-none">About Us</a>
                         </p>
                         <p>
-                            <a href="#!" class="text-secondary text-decoration-none">Contact</a>
+                            <a href="../landing_page/contact.php" class="text-secondary text-decoration-none">Contact</a>
                         </p>
                     </div>
                     <!-- Grid column -->

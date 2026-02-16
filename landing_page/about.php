@@ -32,7 +32,7 @@
                         <a class="nav-link text-tertiary me-3" aria-current="page" href="../landing_page/home.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active text-warning me-3" href="#">About</a>
+                        <a class="nav-link active text-warning me-3" href="#!">About</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-tertiary me-3" href="../landing_page/contact.php">Contact</a>
